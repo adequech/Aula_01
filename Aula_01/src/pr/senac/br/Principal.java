@@ -8,7 +8,7 @@ public class Principal {
 	    Cliente cliente_03 = new Cliente();
 	    Cliente cliente_04 = new Cliente();
 
-	    cliente_01.cpf = "02850435902";
+	    cliente_01.cpf = "028504359021";
 	    cliente_01.anoNascimento = 1980;
 	    cliente_01.nome = "Marcos da Rocha Souza";
 	    cliente_01.email = "mr_souza@gmail.com";
